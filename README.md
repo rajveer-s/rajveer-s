@@ -14,7 +14,7 @@
 <br />
 
 ###  A little about me
-- 🔭 I’m working on my portfolio website.
+- 🔭 My current project is my own portfolio webiste.
 - 🌱 I’m currently learning full stack development. 
 - ⚡ Fun fact: I can build a pc in 10 minutes. 
 
@@ -24,5 +24,4 @@
 [<img align="left" alt="html5 logo" width="80rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />](HTML)
 [<img align="left" alt="html5 logo" width="80rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />](CSS)
 [<img align="left" alt="html5 logo" width="80rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />](JS)
-
 [<img align="left" alt="html5 logo" width="80rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />](GIT)
