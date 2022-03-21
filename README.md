@@ -5,8 +5,8 @@
 
 ### 📫 How to connect with me:
 
-[<img align="left" alt="my portflio website" width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />](https://rajveer-s.github.io/Professional-Portfolio/#)
-[<img align="left" alt="LinkedIn Profile" width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/raj-sidhu-95a841a3/)
+[<img align="left" alt="my portflio website" width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />](https://rajveer-s.github.io/Professional-Portfolio/#)
+[<img align="left" alt="LinkedIn Profile" width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/raj-sidhu-95a841a3/)
 
 
 
