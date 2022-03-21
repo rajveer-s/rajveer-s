@@ -3,8 +3,8 @@
 
 ### 📫 How to connect with me:
 
-[<img align="left" alt="my portflio website" width="4rem" src="https://rajveer-s.github.io/Professional-Portfolio/#" />] [Website]
-[<img align="left" alt="LinkedIn Profile" width="4rem" src="https://www.linkedin.com/in/raj-sidhu-95a841a3/" />] [LinkedIn]
+[<img align="left" alt="my portflio website" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />] [Website]
+[<img align="left" alt="LinkedIn Profile" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />] [LinkedIn]
 
 
 ###  A little about me
@@ -15,3 +15,4 @@
 <br />
 
 ## Languages:
+- [HTML](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />)
