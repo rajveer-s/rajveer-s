@@ -30,6 +30,6 @@
 <div>
 	<p text-align="right">
 		<img src="https://github-readme-stats.vercel.app/api?username=rajveer-s&hide=prs,issues&count_private=true&show_icons=true&bg_color=00000000&hide_border=true&line_height=25&custom_title=Raj's%20GitHub%20Stats&text_color=FFF&cache_seconds=1800" width="50%" />
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajveer-s&langs_count=100&layout=compact&bg_color=00000000&text_color=FFF&hide_border=true&cache_seconds=1800" width="50%" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajveer-s&langs_count=100&layout=compact&bg_color=00000000&text_color=FFF&hide_border=true&cache_seconds=1800" width="60%" />
 	</p>
 </div>
