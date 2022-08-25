@@ -44,6 +44,50 @@ ___
 </p>
 
 
+<h2 align="left" color="white">Projects</h2>
+
+<div align="center">
+<table>
+      <tr>
+        <td width="50%">
+          <h3 align="center">Get Outside</h3>
+          <p align="center">
+             <a href="arcane-stream-21674.herokuapp.com/" target="_blank" ref="noreferrer"> <img src="https://github.com/rajveer-s/assets/blob/main/Go.gif?raw=true" alt="project example"/> </a>
+		<a href="https://github.com/rajveer-s/get-outside" target="_blank ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://arcane-stream-21674.herokuapp.com/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+          </p>
+        </td>
+	<td width="50%">
+          <h3 align="center">Key Change</h3>
+          <p align="center">
+            <a href="https://glacial-gorge-09803.herokuapp.com/" target="_blank" ref="noreferrer"> <img src="https://github.com/rajveer-s/assets/blob/main/KC.gif?raw=true" alt="project example"/> </a>
+		<a href="https://github.com/rajveer-s/Key-Change" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://glacial-gorge-09803.herokuapp.com/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+          </p>
+        </td>
+    </tr>
+    <tr>
+	<td width="50%">
+          <h3 align="center">Are we there yet ?</h3>
+          <p align="center">
+           <a href="https://xnd0.github.io/Are_We_There_Yet_Adventure_App/" target="_blank" ref="noreferrer"> <img src="?raw=true" alt="project example"/> </a>
+		  <a href="https://github.com/rajveer-s/Are_We_There_Yet_Adventure_App" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://xnd0.github.io/Are_We_There_Yet_Adventure_App/" target="_blank"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+          </p>
+        </td>
+	<td width="50%">
+          <h3 align="center">Code Quiz</h3>
+          <p align="center">
+           <a href="https://rajveer-s.github.io/Code-Quiz/index.html" target="_blank" ref="noreferrer"><img src="raw=true" alt="project example"/></a>
+		   <a href="https://github.com/rajveer-s/Code-Quiz" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://rajveer-s.github.io/Code-Quiz/index.html" target="_blank"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+          </p>
+        </td>
+        </tr>
+</table>
+</div>
+
+
 <div>
 	<p text-align="right">
 		<img src="https://github-readme-stats.vercel.app/api?username=rajveer-s&hide=prs,issues&count_private=true&show_icons=true&bg_color=00000000&hide_border=true&line_height=25&custom_title=Raj's%20GitHub%20Stats&text_color=FFF&cache_seconds=1800" width="50%" />
