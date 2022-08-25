@@ -70,7 +70,7 @@ ___
 	<td width="50%">
           <h3 align="center">Are we there yet ?</h3>
           <p align="center">
-           <a href="https://xnd0.github.io/Are_We_There_Yet_Adventure_App/" target="_blank" ref="noreferrer"> <img src="?raw=true" alt="project example"/> </a>
+           <a href="https://xnd0.github.io/Are_We_There_Yet_Adventure_App/" target="_blank" ref="noreferrer"> <img src="https://github.com/rajveer-s/assets/blob/main/APP.gif?raw=true" alt="project example"/> </a>
 		  <a href="https://github.com/rajveer-s/Are_We_There_Yet_Adventure_App" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="https://xnd0.github.io/Are_We_There_Yet_Adventure_App/" target="_blank"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
           </p>
@@ -78,7 +78,7 @@ ___
 	<td width="50%">
           <h3 align="center">Code Quiz</h3>
           <p align="center">
-           <a href="https://rajveer-s.github.io/Code-Quiz/index.html" target="_blank" ref="noreferrer"><img src="raw=true" alt="project example"/></a>
+           <a href="https://rajveer-s.github.io/Code-Quiz/index.html" target="_blank" ref="noreferrer"><img src="https://github.com/rajveer-s/assets/blob/main/CQ.gif?raw=true" alt="project example"/></a>
 		   <a href="https://github.com/rajveer-s/Code-Quiz" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="https://rajveer-s.github.io/Code-Quiz/index.html" target="_blank"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
           </p>
