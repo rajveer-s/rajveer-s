@@ -1,6 +1,16 @@
 ### Hi there, My name is Rajveer 👋
 
+
+#### I'm a web developer on a life-long quest for knowledge. Prior to embarking on my software journey. This adventure eventually led me to an accelerated full stack web development program. I've been fascinated by technology my entire life, and I'm motivated to combine my love of problem solving and interest in software to create applications that will improve the lives of others.
 ---
+
+###  A little about me
+- 💻 Currently learning more about React and on the search for job opportunities!
+- 📚 Stack - React, JavaScript, CSS3, HTML5, Node.js, Express.js, SQL
+- 🛠️ Tools - NPM, Babel, Webpack, Git, Github, Slack, Heroku, JSX, Adobe Photoshop, VS Code, Figma
+- 💡 Open to learning new technologies!
+
+<br />
 
 
 ### 📫 How to connect with me:
@@ -11,13 +21,6 @@
 
 
 <br />
-<br />
-
-###  A little about me
-- 🔭 My current project is my own portfolio webiste.
-- 🌱 I’m currently learning full stack development. 
-- ⚡ Fun fact: I can build a pc in 10 minutes. 
-
 <br />
 
 ___
