@@ -1,7 +1,9 @@
-### Hi there, My name is Rajveer 👋
+### Hi there 👋
 
 
-#### I'm a web developer on a life-long quest for knowledge. Prior to embarking on my software journey. This adventure eventually led me to an accelerated full stack web development program. I've been fascinated by technology my entire life, and I'm motivated to combine my love of problem solving and interest in software to create applications that will improve the lives of others.
+#### My name is Rajveer, a full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development/ back-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+
+
 ---
 
 ###  A little about me
