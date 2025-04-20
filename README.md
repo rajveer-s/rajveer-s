@@ -17,7 +17,7 @@
 
 ### 📫 How to connect with me:
 
-[<img align="left" alt="my portflio website" width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />](https://www.rajveers.com/)
+[<img align="left" alt="my portflio website" width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />](https://rajveers.netlify.app/)
 [<img align="left" alt="LinkedIn Profile" width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/rajveer-singh-95a841a3/)
 
 
